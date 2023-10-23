@@ -47,8 +47,9 @@
                     </tr>
                     <tr class="container">
                         <th scope="col">#</th>
-                        <th scope="col">Servicio</th>
+                        <th scope="col">Nombre</th>
                         <th scope="col">Descripción</th>
+                        <th scope="col">Precios</th>
                         <th scope="col">Imagen</th>
                         <th socope="col">Herramientas</th>
                     </tr>
@@ -61,20 +62,6 @@
                         <td>3</td>
                         <td COLSPAN="2">4</td>
                     </tr> 
-                    <tr>
-                        <th scope="row">1</th>
-                        <td>1</td>
-                        <td>2</td>
-                        <td>3</td>
-                        <td COLSPAN="2">4</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">1</th>
-                        <td>1</td>
-                        <td>2</td>
-                        <td>3</td>
-                        <td COLSPAN="2">4</td>
-                    </tr>
                 </tbody>
             </table>
         </div>
